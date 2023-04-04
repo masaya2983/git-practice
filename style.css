@@ -71,17 +71,10 @@ footer {
 
 
 @media screen and (max-width: 768px) {
-  .social i {
-    color: red;
-  }
+
    header {
     width: 50px;
-  }
-  .social i {
-    color: red;
-  }
-  .social i {
-  color:black;
+
 }
 
  main {
