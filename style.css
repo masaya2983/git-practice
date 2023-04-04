@@ -64,22 +64,47 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-　
+/* すべての画面サイズで適用される設定 */
 .social i {
   color:black;
 }
 
-@media screen and (max-width: 1024px) {
-  .social i {
-    color: green;
-  }
-}
 
 @media screen and (max-width: 768px) {
+  .social i {
+    color: red;
+  }
+   header {
+    width: 50px;
+  }
   .social i {
     color: red;
   }
   .social i {
   color:black;
 }
+
+ main {
+    width: 100%;
+    display: block;
+  }
+
 }
+.step-box {
+  margin-bottom: 20px
+}
+.step-box1{
+  width: 90%;
+
+}
+.step-box2 {
+  width: 90%;
+
+}
+.step-box3 {
+  width: 90%;
+
+}
+
+
+
