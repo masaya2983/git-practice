@@ -73,31 +73,27 @@ footer {
 @media screen and (max-width: 768px) {
 
    header {
-    width: 50px;
+    height:  50px;
 
 }
 
  main {
     width: 100%;
     display: block;
+
   }
 
-}
+
 .step-box {
-  margin-bottom: 20px
-}
-.step-box1{
-  width: 90%;
-
-}
-.step-box2 {
-  width: 90%;
-
-}
-.step-box3 {
-  width: 90%;
-
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right:auto;
+   width: 90%;
 }
 
 
+footer{
+  height: 50px;
+}
 
+}
